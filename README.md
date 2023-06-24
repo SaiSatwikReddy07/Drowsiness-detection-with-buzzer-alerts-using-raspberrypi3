@@ -27,7 +27,7 @@
 4. Bread board
 5. Jumper wires
 
-## Buzzer connection
+## The Buzzer connection
 
 <img width="744" alt="Buzzer_connection" src="https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/assets/109800395/44040528-99de-4987-b81f-b0616ad8d43e">
 
