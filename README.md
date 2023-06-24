@@ -30,4 +30,5 @@
 <img width="744" alt="Buzzer_connection" src="https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/assets/109800395/44040528-99de-4987-b81f-b0616ad8d43e">
 
 ## Hardware implementation
-![hardware_circuit](https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/assets/109800395/4cd2b513-5594-4ee2-a3ab-14c7eb3a4416)
+![hardware_implementation](https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/assets/109800395/a8d59f40-c539-4a70-9874-ab56084dffc5)
+
