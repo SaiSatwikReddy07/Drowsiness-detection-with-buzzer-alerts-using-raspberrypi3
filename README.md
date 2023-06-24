@@ -1,4 +1,4 @@
-# drowsiness-detection-with-buzzer-alerts-using-raspberrypi3
+# Drowsiness-detection-with-buzzer-alerts-using-raspberrypi3
 1. This project aims to utilize computer vision techniques to enhance driver safety.
 2. Face detection algorithms are employed to locate the driver's eyes, which serve as sources for eye tracking in subsequent frames.
 3. The tracked eye images are then utilized to detect signs of drowsiness and generate warning alarms. 
@@ -26,6 +26,6 @@
 5. Jumper wires
 
 ## Buzzer connection
-<p><img src="[https://raw.githubusercontent.com/infoaryan/Driver-Drowsiness-Detection/master/screenshots/active.jpg](https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/blob/main/Buzzer_connection.png)https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/blob/main/Buzzer_connection.png" align="center" height="350">
+<img src="[https://raw.githubusercontent.com/infoaryan/Driver-Drowsiness-Detection/master/screenshots/active.jpg](https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/blob/main/Buzzer_connection.png)https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/blob/main/Buzzer_connection.png" align="center" height="350">
 
 ## Hardware implementation
