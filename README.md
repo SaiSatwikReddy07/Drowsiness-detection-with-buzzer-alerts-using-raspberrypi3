@@ -26,6 +26,6 @@
 5. Jumper wires
 
 ## Buzzer connection
+<p><img src="[https://raw.githubusercontent.com/infoaryan/Driver-Drowsiness-Detection/master/screenshots/active.jpg](https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/blob/main/Buzzer_connection.png)https://github.com/SaiSatwikReddy07/drowsiness-detection-with-buzzer-alerts-using-raspberrypi3/blob/main/Buzzer_connection.png" align="center" height="350">
 
-![Uploading image.png…]()
-
+## Hardware implementation
