@@ -11,6 +11,8 @@
 5. numpy
 6. time
 7. imutils
+   
+<b>The 68-landmark detector data (.dat) file can be found <a href="http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2"> By clicking here</a></B>
 
 ## Applications
 1. Raspberrypi Imager
@@ -20,7 +22,7 @@
 
 ## Hardware Setup
 1. Raspberry Pi 3 Model B
-2. Raspberry Pi Adapter (Power Source)
+2. Raspberry Pi Adapter (Power Source) or a power bank
 3. Buzzer sensor
 4. Bread board
 5. Jumper wires
