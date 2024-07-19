@@ -14,7 +14,7 @@
    
 <b>You can download the 68-landmark detector data (.dat) file from <a href="http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2"> here</a></B>
 
-## Applications
+## Software Setup
 1. Raspberrypi Imager
 2. PuTTY
 3. VNC Viewer
